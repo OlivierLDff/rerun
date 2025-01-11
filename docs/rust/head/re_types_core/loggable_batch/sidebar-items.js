@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ComponentBatchCow"],"fn":["assert_component_batch_object_safe","assert_loggablebatch_object_safe"],"struct":["ComponentBatchCowWithDescriptor"],"trait":["ComponentBatch","LoggableBatch"]};
